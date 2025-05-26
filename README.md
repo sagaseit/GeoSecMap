@@ -47,20 +47,11 @@ Contains all the main logic of the application:
 ### data/
 Data that will be used during program runtime.
 
-### tests/
-Tests folder that will test every .py file.
-
 ### exported/
 Location of future generated maps based on browser selected by user.
 
-### requirements.txt
+### requirements(dev).txt
 A list of Python dependencies required to run the project.
-
-### report.pdf
-General report of the project.
-
-### .pylintrc
-Added to suppress false-positive warnings from dynamic imports and test fixtures
 
 ### README.md
 This file provides documentation for the project.
