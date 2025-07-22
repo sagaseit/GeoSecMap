@@ -50,9 +50,6 @@ Data that will be used during program runtime.
 ### exported/
 Location of future generated maps based on browser selected by user.
 
-### requirements(dev).txt
-A list of Python dependencies required to run the project.
-
 ### README.md
 This file provides documentation for the project.
 
